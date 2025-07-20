@@ -1,0 +1,12 @@
+[project]
+name = "langgraph-agentic"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipython>=9.4.0",
+    "langgraph>=0.5.3",
+    "pydantic>=2.11.7",
+    "rich>=14.0.0",
+]
